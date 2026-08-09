@@ -9,7 +9,6 @@ Portfolio project aligned to a Supply Chain internship focused on customer-deliv
 - Which regions, products, and delay reasons drive service failures?
 - Which late orders require planner follow-up?
 ## Dashboard Preview
-# Customer Delivery Performance & OTDS/OTDC Dashboard
 ![Customer Delivery Performance Dashboard](customer_delivery_dashboard.png)
 ## KPI definitions used in this simulation
 - **OTDS** = orders where Actual Ship Date <= Scheduled Ship Date / total orders.
