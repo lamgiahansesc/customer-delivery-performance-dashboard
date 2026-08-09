@@ -1,4 +1,4 @@
-# Customer Delivery Performance & OTDS/OTDC Dashboard
+<img width="1348" height="1446" alt="image" src="https://github.com/user-attachments/assets/b41bedb7-c957-4d92-bcb0-7b8c2db322ae" /># Customer Delivery Performance & OTDS/OTDC Dashboard
 
 ## Objective
 Portfolio project aligned to a Supply Chain internship focused on customer-delivery reporting, daily operational reporting, and on-time performance.
@@ -13,7 +13,11 @@ Portfolio project aligned to a Supply Chain internship focused on customer-deliv
 - **OTDS** = orders where Actual Ship Date <= Scheduled Ship Date / total orders.
 - **OTDC** = orders where Actual Delivery Date <= Requested Delivery Date / total orders.
 
+![Uploading image.png…]()
+
 These definitions are a portfolio simulation based on the wording of the supplied job description. Real company definitions can differ and should be confirmed in an interview/onboarding context.
+
+
 
 ## Recommended Power BI pages
 1. Executive Delivery Performance — OTDS, OTDC, total orders, late deliveries, trend vs target.
