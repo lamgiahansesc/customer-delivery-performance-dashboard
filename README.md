@@ -8,15 +8,14 @@ Portfolio project aligned to a Supply Chain internship focused on customer-deliv
 - Are customer deliveries meeting the OTDC target of 98%?
 - Which regions, products, and delay reasons drive service failures?
 - Which late orders require planner follow-up?
-
+## Dashboard Preview
+# Customer Delivery Performance & OTDS/OTDC Dashboard
+![Customer Delivery Performance Dashboard](customer_delivery_dashboard.png)
 ## KPI definitions used in this simulation
 - **OTDS** = orders where Actual Ship Date <= Scheduled Ship Date / total orders.
 - **OTDC** = orders where Actual Delivery Date <= Requested Delivery Date / total orders.
 
-
-These definitions are a portfolio simulation based on the wording of the supplied job description. Real company definitions can differ and should be confirmed in an interview/onboarding context.
-
-
+These definitions are a portfolio simulation
 
 ## Recommended Power BI pages
 1. Executive Delivery Performance — OTDS, OTDC, total orders, late deliveries, trend vs target.
