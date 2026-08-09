@@ -25,6 +25,4 @@ These definitions are a portfolio simulation based on the wording of the supplie
 2. Root-Cause Analysis — performance by product/region/customer and delay reason.
 3. Exception Management — late/at-risk order table for planner follow-up.
 
-## CV bullets
-- Built a customer-delivery performance dashboard using 3,000 simulated orders, calculating OTDS and OTDC against 96.5% and 98% targets and highlighting service gaps by region, product, and delay reason.
-- Developed an exception-management report identifying late customer deliveries and prioritizing orders for planner follow-up, converting order-level data into actionable daily reporting.
+
