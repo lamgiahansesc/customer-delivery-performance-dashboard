@@ -9,11 +9,6 @@ Portfolio project aligned to a Supply Chain internship focused on customer-deliv
 - Which regions, products, and delay reasons drive service failures?
 - Which late orders require planner follow-up?
 
-## Files
-- `Customer_Delivery_Performance_Dashboard.xlsx`: raw data, KPI dashboard, exception report, and data dictionary.
-- `customer_delivery_orders.csv`: Power BI-ready synthetic source data.
-- `DAX_Measures.txt`: recommended measures for a Power BI version.
-
 ## KPI definitions used in this simulation
 - **OTDS** = orders where Actual Ship Date <= Scheduled Ship Date / total orders.
 - **OTDC** = orders where Actual Delivery Date <= Requested Delivery Date / total orders.
