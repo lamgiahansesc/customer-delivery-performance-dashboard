@@ -137,16 +137,6 @@ This turns the raw dataset into a ready-to-use daily action list for planners.
 
 ---
 
-## 📈 Recommended Power BI Pages
-
-This project was built and validated in Excel; the pages below outline how the same model would be structured if rebuilt in Power BI.
-
-1. **Executive Delivery Performance** — OTDS, OTDC, total orders, late deliveries, trend vs. target
-2. **Root-Cause Analysis** — performance by product / region / customer and delay reason
-3. **Exception Management** — late / at-risk order table for planner follow-up
-
----
-
 ## 🛠 Tools & Techniques
 
 **Excel** — KPI calculation (OTDS/OTDC), exception flagging, delay-reason breakdown, regional performance summary, dashboard build
