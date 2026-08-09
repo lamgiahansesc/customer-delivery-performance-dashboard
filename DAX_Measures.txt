@@ -1,0 +1,7 @@
+OTDS % = DIVIDE(CALCULATE(COUNTROWS(Orders), Orders[Actual_Ship_Date] <= Orders[Scheduled_Ship_Date]), COUNTROWS(Orders))
+
+OTDC % = DIVIDE(CALCULATE(COUNTROWS(Orders), Orders[Actual_Delivery_Date] <= Orders[Requested_Delivery_Date]), COUNTROWS(Orders))
+
+Late Customer Orders = CALCULATE(COUNTROWS(Orders), Orders[Actual_Delivery_Date] > Orders[Requested_Delivery_Date])
+
+Average Delivery Delay = AVERAGEX(Orders, MAX(0, DATEDIFF(Orders[Requested_Delivery_Date], Orders[Actual_Delivery_Date], DAY)))
